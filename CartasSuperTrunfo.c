@@ -18,5 +18,14 @@ int main() {
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 
+    //Declaração das variáveis que serão utilizadas neste projeto.
+
+    char estado;
+    char codigoCidade;
+    char nomeCidade[50];
+    int populacao, area, pontosTuristicos;
+    float pib;
+
+
     return 0;
 }
